@@ -1,0 +1,5 @@
+deseq2_shrink_lfc: false            # paper: no shrinkage
+differential_max_pval: 0.05         # paper: nominal p < 0.05
+differential_max_qval: 1.0          # do not filter on the adjusted p-value
+differential_min_fold_change: 1.41421   # paper: |log2FC| > 0.5, i.e. fold change 2^0.5
+exploratory_main_variable: Condition
