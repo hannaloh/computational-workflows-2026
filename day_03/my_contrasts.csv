@@ -1,0 +1,6 @@
+id,variable,reference,target,blocking
+SNI_Sal_vs_Sham_Sal,Condition,Sham_Sal,SNI_Sal,
+Sham_oxy_vs_Sham_Sal,Condition,Sham_Sal,Sham_oxy,
+SNI_oxy_vs_Sham_Sal,Condition,Sham_Sal,SNI_oxy,
+SNI_oxy_vs_SNI_Sal,Condition,SNI_Sal,SNI_oxy,
+SNI_oxy_vs_Sham_oxy,Condition,Sham_oxy,SNI_oxy,

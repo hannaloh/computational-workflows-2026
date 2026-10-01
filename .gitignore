@@ -10,3 +10,6 @@ results/
 
 # Jupyter
 .ipynb_checkpoints/
+day_04/fastqc_manual/
+day_04/fastqc_results/
+day_03/results_paper/
