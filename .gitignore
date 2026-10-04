@@ -13,3 +13,6 @@ results/
 day_04/fastqc_manual/
 day_04/fastqc_results/
 day_03/results_paper/
+day_05/work/
+day_05/results/
+day_05/.nextflow*
