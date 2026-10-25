@@ -5,6 +5,7 @@ Student1: Pia Truebenbach
 Student2: Hanna Lohmann
 
 Project Github url: https://github.com/lohtrue/analysisrnaseq
+Release: https://github.com/lohtrue/analysisrnaseq/releases/tag/1.0.0
 
 # Next steps
 
