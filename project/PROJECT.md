@@ -4,8 +4,7 @@ Student1: Pia Truebenbach
 
 Student2: Hanna Lohmann
 
-Project Github url: https://github.com/lohtrue/rna-seq-analysis
-
+Project Github url: https://github.com/lohtrue/analysisrnaseq
 
 # Next steps
 
@@ -18,5 +17,5 @@ Project Github url: https://github.com/lohtrue/rna-seq-analysis
 
 # Deadline
 
-**Uplaod your final work (assignment notebooks, pipeline code and paper) before the 24th of October at 6pm**.
+**Uplaod your final work (assignment notebooks, pipeline code and paper) before the 25th of October at 6pm**.
 Later submissions (aka commit timestamps) cannot be graded!
